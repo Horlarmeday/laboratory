@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d8efaad-5826-4d66-b140-0af24c83972b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20VtuRt61rzD5ZtcZWiyrDIIOoW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TaxDemo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EB\Downloads\Vue-Projects\Laboratory\admin-app\src\view\pages\tests" />
+      <recent name="C:\Users\EB\Downloads\Vue-Projects\Laboratory\client-app\src\view\pages\auth" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d8efaad-5826-4d66-b140-0af24c83972b" name="Default Changelist" comment="" />
+      <created>1636141813915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636141813915</updated>
+      <workItem from="1636141836097" duration="28544000" />
+      <workItem from="1636820523718" duration="723000" />
+      <workItem from="1636824952417" duration="1532000" />
+      <workItem from="1636829418190" duration="15084000" />
+      <workItem from="1637416165726" duration="29496000" />
+      <workItem from="1637740472669" duration="202000" />
+      <workItem from="1637818623383" duration="17317000" />
+      <workItem from="1637856943774" duration="45000" />
+      <workItem from="1637869954542" duration="6723000" />
+      <workItem from="1637877315536" duration="16170000" />
+      <workItem from="1638016675442" duration="590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="681" y="217" key="FileChooserDialogImpl" timestamp="1637740677372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1637740677372" />
+    <state x="524" y="5" width="870" height="1034" key="search.everywhere.popup" timestamp="1637914120527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="524" y="5" width="870" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637914120527" />
+  </component>
+</project>
